@@ -1,0 +1,32 @@
+L'application sera conçu pour faciliter l'organisation d'évenements sportifs, principalements des tournois, peut inclure des rencontres amicales, des évènements caritatifs, etc... Elle d'addressera principalement aux clubs sportifs et aux organisateurs et permettra d'en choisir le lieu, les horaires, le nombre de participants, de gérer les inscriptions et les paiements. 
+L'application permettra de suivre en temps réel le déroulé du tournoi. Elle supportera la gestion de différents formats, comme les tournois simple, à double éliminations, aller-retour, suisse, toutes rondes. Pour apporter un maximum de flexibilité à l'organisateur, il sera possible d'en paramétrer plusieurs, sous forme d'arbre ou de poule, ainsi que leur mise à jour (manuelle, en fonction des résultats d'un match précédent). 
+Afin de pouvoir rester informé des différents évènements en cours/à venir, les clubs pourrons s'y inscrire et y inscrire leurs adhérents. Ils aurons accès à la liste des évènements disponibles avec là encore la possibilité au club d'y inscrire ses adhérents. Pour leurs apporter une plus-value et de manière similaire aux tournois, l'application proposera aux clubs d'y programmer leurs entrainements et leurs évaluations (passage de gants/ceinture, montés en grade, etc...)  en y fixant les horaires, leurs récurences, les lieux, en ouvrant les inscriptions à tous, seulement à ses adhérents, ou à certains d'entre eux seulement.
+Pour faciliter l'organisation de gros événements s'étalant dans le temps, se déroulant en plusieurs étapes, ou regroupants plusieurs sous-évenements de natures différents, l'application proposera de regrouper différents évènements sous forme de circuits. Ceux-ci aurons une page de présentation dédié, avec l'accès aux différents évènements associés et les modalités pour y accéder, paramétrés par l'organisateur du circuit. A partir du moment ou un sportif sera inscrit à un évènement du circuit, il sera inscrit au circuit tout entier, qui gèrera ses résultats et ses accès aux autres évènements du circuit.
+
+
+users stories (en tant que ..., je souhaite ... afin que ...):
+En tant qu'utilisateur, je souhaite lister/trier les clubs/tournois/circuits qui pourraient m'intéresser en fonction du sport/lieu/horaires d'ouverture.
+En tant qu'utilisateur, je souhaite pouvoir supprimer mon compte et toutes les informations associées.
+En tant qu'organisateur, je souhaite créer/modifier mes tournois/circuits.
+En tant qu'organisateur, je souhaite ouvrir les inscriptions à mes tournois/circuits.
+En tant qu'organisateur, je souhaite annuler un de mes tournois/circuits.
+En tant qu'entraineur, je souhaite créer/modifier mon club.
+En tant qu'entraineur, je souhaite créer/modifier un compte pour chaque sportif adhérent de mon club.
+En tant qu'entraineur, je souhaite désincrire un sportif de mon club.
+En tant qu'entraineur, je souhaite créer/modifier un entrainement.
+En tant qu'entraineur, je souhaite créer/modifier une évaluation.
+En tant qu'entraineur, je souhaite annuler un entrainement.
+En tant qu'entraineur, je souhaite créer/modifier une évaluation.
+En tant qu'entraineur, je souhaite annuler une évaluation.
+En tant qu'entraineur, je souhaite voir/trier la liste des différents tournois/circuits disponibles.
+En tant qu'entraineur, je souhaite inscrire mes sportifs à un tournoi pour qu'ils puissent y participer.
+En tant qu'entraineur, je souhaite pouvoir classer mes sportifs par équipe.
+En tant qu'entraineur, je souhaite annuler la participation d'un sportif à un tournoi.
+En tant qu'entraineur, je souhaite fermer mon club.
+En tant que sportif, je souhaite modifier certaines informations de mon compte.
+En tant que sportif, je souhaite lister les entrainements de mon club.
+En tant que sportif, je souhaite m'inscrire à un entrainement de mon club.
+En tant que sportif, je souhaite lister les différents tournois/circuits disponibles.
+En tant que sportif, je souhaite lister les différents tournois/circuits auquels je suis inscrit.
+
+

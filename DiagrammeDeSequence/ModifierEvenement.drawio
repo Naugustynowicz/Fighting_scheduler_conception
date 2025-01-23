@@ -1,0 +1,164 @@
+<mxfile host="65bd71144e">
+    <diagram id="TOn9vnGETn62J-ARthUI" name="Page-1">
+        <mxGraphModel dx="1772" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="20" value="tant que lieu non selectionné" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-190" y="290" width="870" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Organisateur évènement" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="-80" y="95" width="25" height="855" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="2" vertex="1">
+                    <mxGeometry x="7.5" y="85" width="10" height="635" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;" parent="2" vertex="1">
+                    <mxGeometry x="-2.5" y="825" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="100" width="100" height="830" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="3" vertex="1">
+                    <mxGeometry x="40" y="220" width="10" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="3" vertex="1">
+                    <mxGeometry x="40" y="430" width="10" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="BDD" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="540" y="100" width="100" height="830" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="4" vertex="1">
+                    <mxGeometry x="40" y="240" width="10" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="4" vertex="1">
+                    <mxGeometry x="40" y="580" width="10" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Lancer creation évènement" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.079;entryY=0.055;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2" target="30" edge="1">
+                    <mxGeometry x="-0.0025" relative="1" as="geometry">
+                        <mxPoint x="270" y="190" as="sourcePoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="Entre infos demandés" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="1" target="9" edge="1">
+                    <mxGeometry x="0.1" relative="1" as="geometry">
+                        <mxPoint x="140" y="320" as="sourcePoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="affiche liste lieux disponibles" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1" target="31">
+                    <mxGeometry x="-0.0025" y="-6" relative="1" as="geometry">
+                        <mxPoint x="139.5" y="481.4999999999998" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                        <mxPoint x="340" y="450" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="220" y="450"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="recherche lieux disponible en bdd" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="1" target="14" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="349.5" y="340.0000000000001" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="retour lieux trouvés" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="1" source="14" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="349.5" y="416" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="selectionne lieu" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.079;entryY=0.062;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8" target="32" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="139.5" y="506.0000000000001" as="sourcePoint"/>
+                        <mxPoint x="340" y="506.0000000000001" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="tout est ok" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;entryX=1.121;entryY=0.874;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="17" target="32" edge="1">
+                    <mxGeometry x="-0.0025" relative="1" as="geometry">
+                        <mxPoint x="270" y="546" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="Entre infos formulaire" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
+                    <mxGeometry width="80" relative="1" as="geometry">
+                        <mxPoint x="-70" y="580" as="sourcePoint"/>
+                        <mxPoint x="130" y="580" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="Valide" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;entryX=0.041;entryY=0.325;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="32" edge="1" source="8">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="140" y="610" as="sourcePoint"/>
+                        <mxPoint x="300" y="610" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="40" y="612"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" value="creer evenement en bdd" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="1" source="3" target="23" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="510" y="650" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" value="tout est ok" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="1" source="23" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="510" y="726" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;" parent="1" vertex="1">
+                    <mxGeometry x="575" y="920" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;" parent="1" vertex="1">
+                    <mxGeometry x="335" y="920" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="IHM" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="100" width="100" height="830" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="29">
+                    <mxGeometry x="40" y="90" width="10" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="29">
+                    <mxGeometry x="40" y="210" width="10" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="29">
+                    <mxGeometry x="40" y="430" width="10" height="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="demande date début-fin,&lt;br&gt;&amp;nbsp;nb attendees" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="29" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-150" y="160" as="targetPoint"/>
+                        <mxPoint x="40" y="160" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="34" value="affiche liste lieux disponibles" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.211;entryY=0.457;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="29" target="8">
+                    <mxGeometry x="-0.0025" y="-6" relative="1" as="geometry">
+                        <mxPoint x="-150" y="380" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                        <mxPoint x="40" y="370" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="-80" y="370"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="36" value="creer evenement en bdd" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="29">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="50" y="540" as="sourcePoint"/>
+                        <mxPoint x="250" y="540" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="33" value="Entre infos demandés" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.041;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2" target="31">
+                    <mxGeometry x="0.1" relative="1" as="geometry">
+                        <mxPoint x="150" y="330" as="sourcePoint"/>
+                        <mxPoint as="offset"/>
+                        <mxPoint x="350" y="330" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="35" value="tout est ok" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="1">
+                    <mxGeometry x="-0.0025" relative="1" as="geometry">
+                        <mxPoint x="-60" y="780" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                        <mxPoint x="126.38999999999999" y="779.9999999999998" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

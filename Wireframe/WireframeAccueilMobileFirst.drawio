@@ -1,0 +1,70 @@
+<mxfile host="65bd71144e">
+    <diagram id="W22M9xHzZWHyqsX-rFtM" name="Page-1">
+        <mxGraphModel dx="610" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="40" width="450" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Page Accueil" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="10" width="450" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Menu connection :&amp;nbsp;&lt;br&gt;- username&lt;br&gt;- password&lt;br&gt;Bouton connection" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="70" width="430" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1030" y="40" width="450" height="510" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Page Accueil quand connecté (entraineur)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="1030" y="10" width="450" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Infos / notifications" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1040" y="100" width="430" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1520" y="40" width="450" height="510" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Page Accueil quand connecté (organisateur événement)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="1520" y="10" width="450" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Infos / notifications" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1530" y="100" width="430" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="40" width="450" height="510" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Header : Menu principal&lt;br&gt;( Notifications / Evenements / Mon Club /&amp;nbsp; Paramètres )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="50" width="430" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Page Accueil quand connecté (Sportif)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="10" width="450" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Infos / notifications" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="100" width="430" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="Header : Menu principal&lt;br&gt;( Notifications / Evenements / Mon Club /&amp;nbsp; Paramètres )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1040" y="50" width="430" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="Header : Menu principal&lt;br&gt;( Notifications / Mes évènements / Rechercher /&amp;nbsp; Paramètres )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1530" y="50" width="430" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="2000" y="40" width="450" height="510" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="Page Accueil quand connecté (organisateur circuit)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="2000" y="10" width="450" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="Infos / notifications" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="2010" y="100" width="430" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="Header : Menu principal&lt;br&gt;( Notifications / Mes Circuits / Rechercher /&amp;nbsp; Paramètres )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="2010" y="50" width="430" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="Lien vers menu inscription" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="50" width="430" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

@@ -1,0 +1,38 @@
+Idées : 
+perso : 
+  - gestionnaire d'événements jeux de combats / boxe.
+  - appli de rencontre (API discord?)
+entreprise :
+  - 
+entreprise (sujet sur lesquels j'ai travaillé) :
+  - ajouter une option pour archiver un transporteur
+  - ajouter un paramètre pour ignorer la date de livraison lors du scannage des articles
+  - évolution de la fonctionnalité pour programer des exports
+entreprise (sujet à venir) :
+  - ajout d'un nouveau transporteur
+  
+Stack technique : 
+  - back : ruby, ruby on rails
+  - front : js
+
+
+Gestionnaire d'événements de combats (tournois)
+  - entrainements
+      - les horaires, qui est dispo, qui n'est pas dispo
+      - niveau des gens (couleur des ceintures/gants)
+  - évaluation (passage de ceintures, de gants)
+    - date, lieu, participants, diplôme obtenu
+  - tournois
+      - infos événements, inscrits, date, lieu
+      - particiant, gestion des poules, seeding, gestion de plusieurs arbres de tournois avec qui va ou en fonction des résultats
+      - 
+  - gestion des circuits de tournois
+      - séries de tournois d'un même organisateur
+      - événements tiers qui comptent pour un circuit
+      - méthode de comptage (places qui comptes, points gagnés, place garantie?)
+  - utilisateurs
+    - type (sportif, entraineur, organisateur tournoi/circuit)
+    - accréditations
+    - organisation (associations, structure, équipe, etc...)
+  
+

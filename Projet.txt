@@ -1,0 +1,59 @@
+Gestionnaire d'évènements communautaires de jeux de combats.
+- app discord
+  (-> afficher "Hello world!" sur un channel discord?)
+- bbd des différentes communautés
+  -> nom, description, administrateurs, ville/localisation/adresse, jeux, type (assos, team esport, studio de jv, etc...)
+- bdd des différents évènements
+  -> nom, description, administrateurs, ville/localisation/adresse, jeux, type (tournoi), dates/horaires, régularité, modalités d'inscription (prix), liste des inscrits
+    -> si tournoi: règles, prix.
+- UI 
+  -> affichage des différentes communautés (onglet 1)
+  -> affichages des différents évènements (onglet 2)
+  -> classification/recherche/filtrage des communautés et évènements (ville, jeux, type de communauté (assos, team e-sport, éditeur/developpeur de jv))
+- création d'un gestionnaire de compte utilisateur
+  -> profil/authentification
+    -> pseudo, password
+    (-> utilisation du profil discord?)
+  -> gestion de ses communautés
+    -> création, modifications, suppression
+    (-> possibilité d'une gestion automatique via discord?)
+  -> gestion de ses évènements
+    -> création, modifications, suppression
+    -> possibilité d'une suppression automatique (activée par défaut)
+  -> admin
+- partage des évènements 
+  -> à leur création, les évènements apparaîssent sur un channel dédié dans les communautés
+  -> paramètres de partage 
+    -> côté communautés
+      -> channel sur lequel s'effectuera le partage
+      (-> type d'évènement?)
+    -> côté évènements
+      -> moment ou le partage est effectué (création, date de rappels)
+      -> communautés auquelles l'évènement sera partagé (en fonction du jeux, de la localisation)
+- inscription à un évènement
+- compatibilité avec smash GG (interfaces : adapteur, bridge, façade)
+  -> récupérer les infos des tournois depuis ce site et le partager automatiquement aux communautés qui pourraient être interressés
+  -> autre possibilité, pouvoir transmettre les infos d'un évènement à smash GG lors de sa création
+  (-> liaison avec profil smash GG?)
+- compatibilité autres applications
+  -> prévoir un point d'entrée pour les applications tierces qui voudraient se greffer dessus et y poster leurs tournois 
+  -> récupérer/transmettre les infos de sa communauté
+- bdd ressources utiles
+
+
+
+users stories : en tant que ..., je souhaite ... afin que ...
+En tant qu'utilisateur, je souhaite rechercher les communautés/évènements qui pourraient m'interresser.
+En tant qu'entraineur, je souhaite m'inscrire à un évènement pour pouvoir y participer.
+En tant qu'admin, je souhaite inscrire ma communauté pour qu'elle soit informé des différents évènements.
+En tant qu'admin, je souhaite pouvoir créer mon évènement.
+En tant qu'admin, je souhaite pouvoir diffuser mon évènement.
+En tant qu'admin, je souhaite me connecter afin de pouvoir gérer mes communautés et/ou évènements.
+En tant qu'admin, je souhaite me créer un compte afin de pouvoir gérer mes communautés/évènements.
+En tant qu'admin, je souhaite pouvoir gérer/modifier mes communautés/évènements.
+En tant qu'admin, je souhaite pouvoir supprimer mes communautés/évènements.
+En tant qu'admin, je souhaite supprimer mon compte.
+En tant qu'utilisateur, je souhaite pouvoir accéder à des ressources qui pourraient m'être utile.
+
+
+

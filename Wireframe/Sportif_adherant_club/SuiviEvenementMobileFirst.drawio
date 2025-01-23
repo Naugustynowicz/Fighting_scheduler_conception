@@ -1,0 +1,88 @@
+<mxfile host="65bd71144e">
+    <diagram id="r98DjE8ThPGmYKTVev7f" name="Page-1">
+        <mxGraphModel dx="610" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="18" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shape=flexArrow;" parent="1" source="2" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="35" width="450" height="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Header : Menu principal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="45" width="430" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Liste évènements" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="5" width="450" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Critères de recherches (afficher mes évènements par défaut)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="85" width="430" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Liste événements" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="125" width="430" height="355" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=none;shape=flexArrow;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="7" target="14" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="610" width="450" height="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Header : Menu principal&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="620" width="430" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Page d'accueil de l'évènement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="580" width="450" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Titre évènement" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="690" width="430" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Description" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="720" width="430" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="12" target="22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="1170" width="450" height="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Onglet rencontre en cours" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="1140" width="450" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Retour menu évènement" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="1180" width="310" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Liste des Poules / brackets / matchs / rencontres de l'évènement&lt;br&gt;(mettre celle qui me concerne en premier)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="1220" width="430" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Info pratiques" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="840" width="430" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="1740" width="450" height="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" style="edgeStyle=none;shape=flexArrow;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="22" target="12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Ma rencontre" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="1710" width="450" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Infos pratique ma rencontre" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="1800" width="430" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Menu évènement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="660" width="430" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Retour menu application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="1180" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Retour menu évènement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="1750" width="310" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Retour menu application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="1750" width="120" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

@@ -1,0 +1,21 @@
+Def :
+Le règlement général de protection des données (RGPD) est un texte réglementaire européen qui encadre le traitement des données de manière égalitaire sur tout le territoire de l’Union européenne (UE). Il est entré en application le 25 mai 2018.
+
+Contraintes pour une appli :
+- authentifier les utilisateurs
+- gestion des droits
+- systeme de logs, y enregistrer toutes les activités metiers, les interventions tech, et anomalies sur 6 mois / 1 an
+- prevenir CNIL + utilisateurs concernés en cas de fuite.
+- antivirus et parre-feu à jour
+- limiter support de données mobiles
+- utiliser une bdd externe au poste utilisateur pour la sauvegarde de données, limiter les sauvegardes sur le poste de travail.
+- formatage avant réaffectation du poste
+- vérouillage automatique du poste
+- limiter/réduires communications interpostes/via internet/autre réseaux (limiter requetes https)
+- prévoirs sauvegardes de back-up
+- sécurité par defaut et/ou by design
+- revue de code + tests
+
+
+
+sanctions :

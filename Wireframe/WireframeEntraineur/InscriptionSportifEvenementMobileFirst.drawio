@@ -1,0 +1,139 @@
+<mxfile host="65bd71144e">
+    <diagram id="i0MKW2CaPrxFXIp5ugUn" name="Page-1">
+        <mxGraphModel dx="1460" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="35" width="450" height="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Header : Menu principal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="45" width="430" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Page recherche événement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="5" width="450" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Critères de recherches" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="85" width="430" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Liste événements" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="125" width="430" height="355" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="620" width="450" height="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Header : Menu principal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="630" width="430" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Page affichage évènement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="590" width="450" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="type événement : titre événement" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="670" width="430" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="description" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="730" width="430" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="infos pratiques :&lt;br&gt;- dates&lt;br&gt;- lieu&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="830" width="430" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Bouton inscription" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="960" width="430" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="1200" width="450" height="450" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Formulaire inscription événement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="1170" width="450" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Formulaire inscription :&lt;br&gt;- liste des sportifs du club à inscrire" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="1240" width="430" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Bouton valider formulaire" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="1480" width="320" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="18" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="244.5" y="1670" as="sourcePoint"/>
+                        <mxPoint x="245" y="590" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="245" y="1750"/>
+                            <mxPoint x="-70" y="1750"/>
+                            <mxPoint x="-70" y="540"/>
+                            <mxPoint x="245" y="540"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" value="Valider formulaire, retour dessus si erreur, sinon, retour sur description évènement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="1680" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9" target="19" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="234.5" y="1100" as="sourcePoint"/>
+                        <mxPoint x="234.5" y="1160" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="Quand utilisateur clique sur inscription" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="1110" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="610" y="1200" width="450" height="450" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Formulaire inscription événement, liste des sportif a inscrire" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="610" y="1170" width="450" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Retour sur le formulaire" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="940" y="1210" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Liste des sportifs disponibles" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="620" y="1360" width="430" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="Bouton valider liste inscrits" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="620" y="1330" width="320" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Liste des sportifs déjà inscrits" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="620" y="1240" width="430" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="Bouton valider liste inscrits" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="620" y="1210" width="320" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="29" target="18" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="590" y="1380" as="sourcePoint"/>
+                        <mxPoint x="490" y="1380" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="39" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="18" target="29" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="490" y="1330" as="sourcePoint"/>
+                        <mxPoint x="590" y="1330" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="40" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2" target="12" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="250" y="510" as="sourcePoint"/>
+                        <mxPoint x="250" y="580" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="41" value="Quand utilisateur selectionne un évènement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="265.5" y="520" width="210" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="Bouton inscription" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="700" width="430" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="Bouton valider formulaire&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="1210" width="320" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="Retour sur le formulaire" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="940" y="1330" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="Retour menu évènement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="1210" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="Retour menu évènement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="1480" width="110" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

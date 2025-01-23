@@ -1,0 +1,39 @@
+Tournoi : forme organisée de compétition. Pour le cas des jeux vidéo de combats, les compétiteurs sont le plus souvent divisé en poules toutes rondes simple dans un premier temps, puis les vainqueurs (1er et 2nd place, ou 1er à 4e, par exemple) participent tous ensemble à un tournoi à double élimination. La grande majorité des tournois s'effectue en 1v1, mais il existe également des 2v2.
+
+tournoi à élimination directe : Tournoi dans lequel un joueur ou une équipe est éliminée dès qu'il perd un match. Généralement, un tournoi de ce type comporte 2^n participants pour que chacun aient à disputer le même nombre de combat pour la 1er place. Au début, chaque combattant se voit attribuer un adversaire. Puis, quand toutes les rencontres sont terminés, chaque vainqueur affronte un autre vainqueur d'une autre rencontre, et ainsi de suite jusqu'à qu'il ne reste plus qu'une personne.
+
+tournoi à double élimination (winner bracket / loser bracket) : Un tournoi à double élimination est divisé en deux parties : le tournoi principal (ou tournoi des vainqueurs) et le tournoi secondaire (ou tournoi des perdants). À la fin de chaque tour, les vainqueurs poursuivent le tournoi principal comme lors d'une compétition à élimination directe. Les perdants rejoignent le tournoi secondaire et s'affrontent pour rester dans la course, une deuxième défaite étant synonyme d'élimination définitive. La finale oppose le vainqueur du tournoi principal à celui du tournoi secondaire. Si ce dernier remporte le premier match, une deuxième rencontre a lieu pour respecter le principe du tournoi et éviter au participant qui a remporté tous ses matchs de chuter avec une seule défaite.
+
+Poule à double élimination (poule brésilienne) : tournoi à double élimination adapté au format des poules. 
+
+Tournoi toutes rondes : (ou tournoi à la ronde au Québec) est un type de tournoi dans lequel les participants se rencontrent tous un nombre égal de fois. Il est aussi connu sous les noms anglais round-robin et all-play-all. Dans un tournoi toutes rondes simple, tous les participants sont opposés une seule fois au cours de la compétition. (source wikipedia)
+
+Tournoi suisse : Le principe du tournoi suisse est que chaque joueur sera opposé à un adversaire qui a fait, jusqu'à présent, aussi bien (ou mal) que lui. Le premier tour est déterminé soit par tirage au sort, soit par têtes de série déterminées par leur Classement Elo aux échecs. Les joueurs qui gagnent reçoivent un point, ceux qui font match nul reçoivent un demi point et les perdants ne reçoivent aucun point. Qu'ils gagnent, perdent ou fassent match nul, tous les joueurs poursuivent le tournoi au tour suivant où les gagnants seront opposés aux gagnants, les perdants aux perdants et ainsi de suite.
+
+Tournoi à deux tours : On désigne par tournoi à deux tours ou tournoi à double tour ou « en aller-retour2 » ou tournoi en double ronde (en anglais (en) « double round-robin ») un type de tournoi de jeu de stratégie (comme les échecs où ce terme est surtout usité, mais aussi les dames, Othello ou le jeu de go) où les adversaires se rencontrent tous deux fois : une fois avec les Blancs et une fois avec les Noirs (matchs aller et retour).
+
+combat/set : rencontre et affrontement entre deux compétiteurs lors d'un tournoi, à l'issue duquel un vainqueur est désigné pour la suite du tournoi. Combat est employé dans le monde des sports de combats, set dans celui de l'esport des jeux de combats.
+
+match/manches/rounds : Séparation dans un combat ou un set, souvent standardisé en fonction de l'art martial ou du jeu sur lequel est effectué le tournoi.
+
+Meilleur des X manches (Best of X) : Souvent abbrégé en "BO3" ou "BO5", pour "Best of 3" ou "Best of 5", désigne le nombre de match que comportera un set. Implique que l'ensemble des matchs du set seront joués et que le vainqueur sera désigné à la fin de celui-ci, et qu'il existe une règle pour départager les compétiteurs en cas d'égalité.
+
+3/5 manches gagnantes (First to X) : Parfois abbrégé en "FT2" ou "FT3", pour "First to 2" ou "First to 3". Désigne le nombre de match que comportera un set. Implique que le vainqueur est le premier à gagner X matchs, et donc, en cas d'égalité, le match est rejoué. Dans la plupart des cas, un FT2 est équivalent à un BO3 et un FT3 à un BO5.
+
+Circuit : Ensemble de tournois s'étalant sur une longue période (généralement sur un an), avec un classement commun. En général, un circuit comporte d'abord des tournois de qualifications au niveau régionnale, puis nationnal, puis mondial, avec un prix à la clé de chaque tournoi et l'autorisation de participer à un tournoi de niveau supérieur. Si un vainqueur est déjà qualifié, la place reviens au second, puis au 3e, etc... Autre systeme, un score total à atteindre dans les différents tournois du circuit pour accéder aux tournois de niveau plus élevé.
+
+ligues : Une ligue sportive est un regroupement de plusieurs associations ou clubs de sport amateurs ou professionnels qui s'affrontent au sein d'une compétition commune. Parfois, le terme désigne la compétition elle-même, comme pour la Ligue des champions de l'UEFA ou la Ligue Europa.
+
+arbre (tournois) : Modèle de toutes les rencontres/combat/set/affrontement qui auront lieu lors d'une compétition à élimination directe. 
+
+poule : regroupement d'équipe effectué lors d'un tournoi pour les besoins d'une phase qualificative, souvent appelée "phase de poules" et généralement joué sous la forme d'un tournoi toutes rondes interne à la poule.
+
+Classement Elo (seeding) : Performance estimée d'un compétiteur, calculée en fonction de ses résultats aux tournois précédents. 
+
+têtes de série : favoris/vainqueurs/finalistes présumés du tournoi. Autrement dit, les compétiteurs avec le meilleur Elo du tournoi.
+
+Catégorie (échecs) : classement d'un tournoi représentant son niveau et calculé en faisant la moyenne de l'Elo de tous ses participants. 
+
+Catégorie (sport de combat) : Fourchette de poids auquel un combattant appartient, généralement dans un tournoi, un combattant n'affronte que des adversaires dans sa catégorie de poids.
+
+Catégorie (Super Smash Bros. Ultimate) : Les tournois Smash Bros. sont généralement classés de manière à ce que les meilleurs joueurs ne s'affrontent que dans les dernières étapes d'un tournoi. Le classement le plus fiable des joueurs de Super Smash Bros. Ultimate est le Panda Global Rankings Ultimate (PGRU). Le PGRU regroupe les tournois en l'un des quatre niveaux - S, A, B et C - en fonction du nombre de participants, S étant le niveau le plus prestigieux et C le moins. Les tournois peuvent également se qualifier pour des niveaux supérieurs en réunissant un grand nombre de joueurs hautement classés, même si le nombre total de participants est inférieur. Les tournois organisés en dehors des États-Unis nécessitent moins de participants pour se qualifier aux niveaux supérieurs, en raison de leurs communautés compétitives plus petites. Les événements de niveau S et A sont fréquemment appelés "Majors", avec des tournois de niveau S parfois appelés "Supermajors" ; gagner un Major est largement considéré comme la réalisation la plus prestigieuse de l'Ultimate.
